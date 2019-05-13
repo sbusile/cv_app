@@ -1,8 +1,9 @@
-<?php
-
-?>
-
+<html>
+  <head></head>
+  <body>
 <h1>Front Page</h1>
 <a href="login.php">Login To Account</a>
 <br><br>
 <a href="register.php">Create An Account</a>
+    </body>
+</html>
